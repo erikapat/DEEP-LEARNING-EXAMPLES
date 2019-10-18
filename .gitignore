@@ -5,6 +5,7 @@
 *.txt
 *.tar.gz
 *.gz
+*.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
