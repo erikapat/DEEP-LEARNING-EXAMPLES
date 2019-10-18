@@ -3,6 +3,8 @@
 *.csv
 *.jar
 *.txt
+*.tar.gz
+*.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
