@@ -1,3 +1,9 @@
+#Particular from this project
+*.whl
+*.csv
+*.jar
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
