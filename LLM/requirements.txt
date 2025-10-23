@@ -1,0 +1,8 @@
+# requirements.txt
+langchain==0.1.16
+openai==1.40.0
+tiktoken==0.7.0
+faiss-cpu==1.7.4
+torch>=2.1.0
+sentence-transformers==2.7.0
+numpy>=1.24
