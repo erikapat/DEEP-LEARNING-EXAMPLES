@@ -9,3 +9,4 @@ python -m pip install -r requirements.txt
 #eliminate
 #rm -rf .venv_graphs
 
+#Text to validate: Who is Anna Pávlovna?
